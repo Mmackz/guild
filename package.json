@@ -15,6 +15,7 @@
       "@guildxyz/sdk": "^1.1.1",
       "dotenv": "^16.3.1",
       "node-cron": "^3.0.2",
-      "viem": "^1.4.2"
+      "viem": "^1.4.2",
+      "papaparse": "^5.4.1"
    }
 }
